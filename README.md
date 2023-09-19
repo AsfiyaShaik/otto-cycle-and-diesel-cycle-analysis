@@ -1,1 +1,0 @@
-# otto-cycle-and-diesel-cycle-analysis
